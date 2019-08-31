@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="handy-framework-core" />
+        <module name="handy-framework-jdbc" />
+        <module name="handy-framework-model" />
+        <module name="handy-framework-service" />
+        <module name="handy-framework-util" />
+        <module name="handy-framework-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="handy-framework-app" target="1.8" />
+      <module name="handy-framework-log" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

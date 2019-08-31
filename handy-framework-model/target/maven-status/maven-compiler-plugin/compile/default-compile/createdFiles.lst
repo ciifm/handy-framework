@@ -1,0 +1,9 @@
+com\github\ciifm\handy\model\MessageCode.class
+com\github\ciifm\handy\model\Pagination$ListConverter.class
+com\github\ciifm\handy\model\Pagination.class
+com\github\ciifm\handy\model\MessageCode$FormattedMessageCode.class
+com\github\ciifm\handy\model\CommonMessageCode.class
+com\github\ciifm\handy\model\PageCondition.class
+com\github\ciifm\handy\model\ResponseData.class
+com\github\ciifm\handy\model\GenericModel.class
+com\github\ciifm\handy\model\Pagination$DoConverter.class

@@ -1,0 +1,8 @@
+com\github\ciifm\handy\jdbc\mybatis\TableColumnDefine.class
+com\github\ciifm\handy\jdbc\config\MybatisExpandAutoConfig.class
+com\github\ciifm\handy\jdbc\mybatis\InvalidXmlException.class
+com\github\ciifm\handy\jdbc\mybatis\TableDefine.class
+com\github\ciifm\handy\jdbc\mybatis\GenericMethodXmlGenerator.class
+com\github\ciifm\handy\jdbc\mapper\GenericMapper.class
+com\github\ciifm\handy\jdbc\mybatis\GenericXmlMapperBuilder.class
+com\github\ciifm\handy\jdbc\mybatis\KeyGenerationMode.class

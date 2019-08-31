@@ -1,0 +1,4 @@
+com\github\ciifm\handy\web\config\WebConfigurer.class
+com\github\ciifm\handy\web\handler\GlobalExceptionHandler.class
+com\github\ciifm\handy\web\handler\HttpRespAdvice.class
+com\github\ciifm\handy\web\handler\HttpReqAdvice.class
